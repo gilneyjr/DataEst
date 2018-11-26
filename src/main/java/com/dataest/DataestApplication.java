@@ -1,4 +1,4 @@
-package com.lab.dataest;
+package com.dataest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
